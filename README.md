@@ -52,7 +52,7 @@ To explore this project:
 This project was created as part of a portfolio demonstrating data analysis capabilities using Excel. The focus is on transforming raw data into actionable business intelligence through clean design and robust analysis.
 
 ---
-*For questions or opportunities, please connect with me on [LinkedIn](linkedin.com/in/faith-chepkirui-57158954)*
+*For questions or opportunities, please connect with me on [LinkedIn](https://www.linkedin.com/in/faith-chepkirui-57158954?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BS9oHNDPpR1afKnxXSwvfkw%3D%3D)*
 ### Business Analytics
 - Sales performance analysis
 - Profitability metrics
