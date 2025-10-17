@@ -18,7 +18,6 @@
 
 ### Dashboard Components
 - **Executive Summary** - High-level KPIs and metrics
-- **Sales Trends** - Monthly/quarterly performance
 - **Regional Analysis** - Geographic performance mapping
 - **Product Category Insights** - Best performing categories
 - **Interactive Filters** - Dynamic data exploration
